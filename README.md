@@ -1,2 +1,2 @@
 # JSPG
-A little Javascript RPg I'm doing in my freetime to practice my javascript.
+A little Javascript RPG I'm doing in my freetime to practice my javascript.
