@@ -1,0 +1,11 @@
+{
+  "name": "jspg",
+  "version": "1.0.0",
+  "description": "A little Javascript RPg I'm doing in my freetime to practice my javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noah Pace",
+  "license": "ISC"
+}
